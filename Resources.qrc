@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PassLock.ico</file>
+    </qresource>
+</RCC>
